@@ -1,0 +1,1 @@
+Before calling the buyContarct the use have to give approve to the buycontract from the tokenIn it might be Weth or the Dummy token
